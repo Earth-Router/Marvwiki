@@ -1,7 +1,7 @@
 ---
 title: 生成AIをつかった開発
 categories: [VibeCoding]
-image: src/assets/vibecode.png
+
 ---
 
 # 生成AIを活用した開発
